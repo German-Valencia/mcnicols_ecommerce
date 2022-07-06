@@ -10,11 +10,15 @@ const Navbar = () => {
   return (
     <div className="navbar-container">
       <p className="logo">
-   
-        <Link href="/"> 
-        <a> 
-        <Image src="/../assets/logo.png" alt="logo" width="150px" height="80px"/> 
-        </a> 
+        <Link href="/">
+          <a>
+            <Image
+              src="/../assets/logo.png"
+              alt="logo"
+              width="150px"
+              height="80px"
+            />
+          </a>
         </Link>
       </p>
       <button
