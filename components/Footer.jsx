@@ -13,7 +13,7 @@ const Footer = () => {
           width="65px"
           height="30px"
         /> */}
-        Guitars All Rights Reserved ™ ® & Copyright ©
+         Guitars All Rights Reserved ™ ® & Copyright ©
       </p>
       <p className="icons">
         <AiFillInstagram />
