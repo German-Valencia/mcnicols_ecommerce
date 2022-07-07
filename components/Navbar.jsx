@@ -11,7 +11,7 @@ const Navbar = () => {
     <div className="navbar-container">
       <p className="logo">
         <Link href="/">
-          McNicols Guitars
+          McNicols Guitars 
           {/*  <a>
             <Image
               src="/../assets/logo.png"
