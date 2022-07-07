@@ -6,7 +6,7 @@ const Footer = () => {
   return (
     <div className="footer-container">
       <p>
-        2022 McNicols
+        2022 McNicols 
         {/* <Image
           src="/../public/logo.png"
           alt="McNicols"
